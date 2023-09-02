@@ -5,7 +5,7 @@
 
 - 👯 I collaborate to [kutch-chapter-millet-farming](https://github.com/piyusharma00721/kutch-chapter-millet-farming)
 
-- 👨‍💻 All of my projects are available at [https://github.com/piyusharma00721/Portfolio](https://github.com/piyusharma00721/Portfolio)
+- 👨‍💻 All of my projects are available at [https://piyusharma00721.github.io/Portfolio/](https://piyusharma00721.github.io/Portfolio/)
 
 - 📫 How to reach me **sharmapiyush1106@gmail.com**
 
