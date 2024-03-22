@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sharmapiyush1106@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1vkk1GjL54zeKeISM7DC-cAoWjHcKhFqahlC5QAcUJJs/edit?pli=1](https://docs.google.com/document/d/1vkk1GjL54zeKeISM7DC-cAoWjHcKhFqahlC5QAcUJJs/edit?pli=1)
+- 📄 Know about my experiences [CV] (https://docs.google.com/document/d/1uNqh98dsWZfBHNia3vrnZshrl3NyjLrQD_cjFX57QMs/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
