@@ -49,5 +49,13 @@
 </p>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=piyusharma00721&theme=discord&no-frame=false&no-bg=false&margin-w=4)
