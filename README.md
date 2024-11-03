@@ -11,13 +11,6 @@
 
 - 📄 Know about my experiences [CV] (https://docs.google.com/document/d/1uNqh98dsWZfBHNia3vrnZshrl3NyjLrQD_cjFX57QMs/edit?usp=sharing)
 
-- # 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyusharma00721&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyusharma00721&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyusharma00721&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/piyush-sharma-242b95205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyush-sharma-242b95205/" height="30" width="40" /></a>
@@ -39,15 +32,6 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<p align="center"> 
-  
-  <br>&nbsp;
-  <strong>Wow you're on this No:-</strong>
-  <br>&nbsp;
-  <img src="https://profile-counter.glitch.me/piyusharma00721/count.svg" />
-  
-</p>
-
 
 ###
 ## 🏆 GitHub Trophies
