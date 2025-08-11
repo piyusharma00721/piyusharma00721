@@ -1,22 +1,21 @@
-<h1 align="center">Hey there, I'm **Piyush Sharma** 👋</h1>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+h1, h2, h3, p { font-family: 'Roboto Mono', monospace; }
+</style>
 
-<p align="center">
-  <img src="https://source.unsplash.com/600x200/?dark,code" alt="Dark banner" width="600"/>
-</p>
+<div align="center" style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px;">
+  <h1 style="color: white;">Hi, I’m Piyush Sharma</h1>
+  <p style="color: #bbbbbb;">Machine Learning enthusiast & open-source contributor.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/piyush-sharma-242b95205/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+    </a>
+    <a href="https://kaggle.com/piyushharma">
+      <img src="https://img.shields.io/badge/Kaggle-Coding-orange?logo=kaggle&style=for-the-badge" alt="Kaggle"/>
+    </a>
+  </p>
+</div>
 
-###  About Me
-- **Machine Learning Enthusiast & Open-Source Contributor**
-- Currently learning ML and contributing to the [kutch-chapter-millet-farming](https://github.com/kutch-chapter-millet-farming) project.
-- Explore my projects at my [Portfolio](https://piyusharma00721.github.io/Portfolio/).
-- Reach me at: `sharmapiyush1106@gmail.com`
-
-###  Stats & Trophies
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyusharma00721&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=piyusharma00721&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-###  Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyush-sharma-242b95205/">LinkedIn</a> •
-  <a href="https://www.kaggle.com/piyushharma">Kaggle</a> •
-  <a href="https://www.hackerrank.com/sharmapiyush1106">HackerRank</a>
-</p>
+<div align="center" style="margin-top: 20px;">
+  ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyusharma00721&show_icons=true&theme=dark)
+</div>
