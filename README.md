@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Piyush%20Sharma!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Enthusiast%20%26%20AI%20Agent%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Piyush%20Sharma!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Enthusiast%20and%20AI%20Agent%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 ### 🌟 **Who Am I?**
