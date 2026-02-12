@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/piyush-sharma-242b95205">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[https://piyusharma00721.github.io/Portfolio/](https://piyushs-realm.vercel.app/)">
+  <a href="https://piyusharma00721.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
   </a>
 </div>
